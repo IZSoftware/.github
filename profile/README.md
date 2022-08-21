@@ -1,16 +1,22 @@
 <!-- ![Logo](IZ.PNG?raw=true "IZSoftware")
 **_Where Your Solution Is_** -->
-<img align="right" src="IZ.PNG"/>
+<img align="right" src="profile/IZ.PNG"/>
 
-# Welcome To IZSoftware 👋🏾👋
+# Welcome To IZSoftwares 👋🏾👋
 
-We Are Not Ordinary, Our Values Are The most Strongest To Follow
+Digitizatoin of Africa's Micro SMEs, Startups, SMEs and Providing Software Development Services and Consultations.
 
-- Discipline
-- Focus
+## Our Core Values
 
-Existing since End 2020, We are here to provide Quality Softwares Solutions.
+- Ownership
+- Customer - Centric
+- Working Together
+- Impact Oriented
+- Impact Driven
+- And Finally *Honesty*
 
-📫 How to reach us: contact@jackb01.com
+Founded in 2020, We are here to Ease Workload on SMEs in Africa.
+
+📫 How to reach us currently: contact@jackb01.com
 
 <p align="right"><b><i>Where Your Solution Is</i></b></p>
