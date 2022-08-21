@@ -4,7 +4,7 @@
 
 # Welcome To IZSoftwares 👋🏾👋
 
-Digitizatoin of Africa's Micro SMEs, Startups, SMEs and Providing Software Development Services and Consultations.
+Our vision is the Digitization of Africa's Micro SMEs, Startups, SMEs and Providing Software Development Services and Consultations.
 
 ## Our Core Values
 
