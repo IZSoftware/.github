@@ -4,7 +4,8 @@
 
 # Welcome To IZSoftwares 👋🏾👋
 
-Our vision is the Digitization of Africa's Micro SMEs, Startups, SMEs and Providing Software Development Services and Consultations.
+Our mission is to increase the Productivity of SMEs by providing Reliable, Scalable, and Performant Digital Solutions 
+that will meet daily needs and ease workloads of SMEs in Africa.
 
 ## Our Core Values
 
@@ -17,6 +18,6 @@ Our vision is the Digitization of Africa's Micro SMEs, Startups, SMEs and Provid
 
 Founded in 2020, We are here to Ease Workload on SMEs in Africa.
 
-📫 How to reach us currently: contact@jackb01.com
+📫 ::: contact@izsoftwares.com
 
 <p align="right"><b><i>Where Your Solution Is</i></b></p>
