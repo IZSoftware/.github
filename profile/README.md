@@ -9,12 +9,12 @@ that will meet daily needs and ease workloads of SMEs in Africa.
 
 ## Our Core Values
 
-- Ownership
+- Ownership 
+- Integrity
+- Working - Together
 - Customer - Centric
-- Working Together
-- Impact Oriented
 - Impact Driven
-- And Finally *Honesty*
+- We Believe in Products We Build
 
 Founded in 2020, We are here to Ease Workload on SMEs in Africa.
 
