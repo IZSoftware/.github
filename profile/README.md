@@ -1,8 +1,11 @@
 <!-- ![Logo](IZ.PNG?raw=true "IZSoftware")
 **_Where Your Solution Is_** -->
-<img align="right" src="profile/IZ.PNG"/>
 
-# Welcome To IZSoftwares 👋🏾👋
+<p align="center">
+  <img src="profile/IZ.PNG"/>
+</p>
+
+# Welcome To IZSoftwares 👋🏾👋👋🏾
 
 Our mission is to increase the Productivity of SMEs by providing Reliable, Scalable, and Performant Digital Solutions 
 that will meet daily needs and ease workloads of SMEs in Africa.
