@@ -5,10 +5,10 @@
   <img src="profile/IZ.PNG"/>
 </p>
 
-# Welcome To IZSoftwares 👋🏾👋👋🏾
+# Welcome To IZSoftwares
 
-Our mission is to increase the Productivity of SMEs by providing Reliable, Scalable, and Performant Digital Solutions 
-that will meet daily needs and ease workloads of SMEs in Africa.
+Our mission is to build software products and services that will provide convenience and transform their business operations with 
+Innovative, Reliable and Performant Software Solutions.
 
 ## Our Core Values
 
@@ -17,9 +17,8 @@ that will meet daily needs and ease workloads of SMEs in Africa.
 - Working - Together
 - Customer - Centric
 - Impact Driven
-- We Believe in Products We Build
+- We Believe in Solutions We Build
 
-Founded in 2020, We are here to Ease Workload on SMEs in Africa.
 
 📫 ::: contact@izsoftwares.com
 
